@@ -18,7 +18,7 @@ cache:
 
 env:
   global:
-    - MIX_ENV=test
+    - MIX_ENV=dev
 
 matrix:
   include:
