@@ -1,4 +1,4 @@
-https://travis-ci.org/yvc74/chat-server.svg?branch=master
+!https://travis-ci.org/yvc74/chat-server.svg?branch=master!:https://travis-ci.org/yvc74/chat-server
 
 # Oberon Server
 
