@@ -1,3 +1,5 @@
+https://travis-ci.org/yvc74/chat-server.svg?branch=master
+
 # Oberon Server
 
 ## Deployment
